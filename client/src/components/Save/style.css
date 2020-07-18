@@ -1,0 +1,12 @@
+.floatLeft {
+  float: left;
+  margin: 10px;
+  font-weight: bold;
+  font-size: 27px;
+  text-decoration: underline;
+}
+.displayBoxSave {
+  border: 1px solid black;
+  text-align: left;
+  font-size: 22px;
+}
