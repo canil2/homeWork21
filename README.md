@@ -12,4 +12,4 @@ This is using database of mLab.
 
 2. Install nodemon and yarn globally in your machine
 
-3. "yarn dev" is teh command which will run the app on localhost:5000
+3. "yarn dev" is the command which will run the app on localhost:5000
